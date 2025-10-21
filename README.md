@@ -6,15 +6,15 @@
 
 ---
 
-### 🧭 About Me  
+###  About Me  
 > *“Code the world. Map the truth. Own the silence.”*
 
-- 🎓 M.Sc. in **Geoinformatics** — Gandhigram Rural Institute  
-- 🧠 Exploring **Machine Learning**, **Deep Learning**, and **Advanced Geospatial Python**  
-- 🌍 Passionate about **AI for Earth Observation, GIS, and Web Mapping**  
-- 🐍 Fluent in **Python, JS, HTML, CSS, Flask, Leaflet, TensorFlow, PyTorch**  
-- 💬 Ask me about **AI, ML, DL, Web GIS, Remote Sensing, or Full Stack Development**  
-- ✉️ Reach me: **mainakdhanantari4444@gmail.com**
+-  M.Sc. in **Geoinformatics** — Gandhigram Rural Institute  
+-  Exploring **Machine Learning**, **Deep Learning**, and **Advanced Geospatial Python**  
+-  Passionate about **AI for Earth Observation, GIS, and Web Mapping**  
+-  Fluent in **Python, JS, HTML, CSS, Flask, Leaflet, TensorFlow, PyTorch**  
+-  Ask me about **AI, ML, DL, Web GIS, Remote Sensing, or Full Stack Development**  
+-  Reach me: **mainakdhanantari4444@gmail.com**
 
 ---
 
@@ -38,14 +38,14 @@
 
 ---
 
-### 🧩 Most Used Languages
+### Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=M-NX404&layout=compact&theme=radical&hide_border=false" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/mainak-dhanantari" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/M-NX404" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
@@ -54,7 +54,7 @@
 
 ---
 
-### 💀 Mindset
+### Mindset
 <p align="center">
   <img src="https://media.giphy.com/media/26BRQTezZrKak4BeE/giphy.gif" width="300">
 </p>
@@ -63,7 +63,7 @@
 
 ---
 
-### ⚡ Fun Fact
+### Fun Fact
 > I’m studying to be a **Geoinformatics pro**, so I can almost find your house from space 🚀  
 > Every line of code brings the world a little more into focus.
 
